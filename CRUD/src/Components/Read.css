@@ -1,0 +1,21 @@
+.main{
+         text-align: center;
+         background: cadetblue;
+}
+
+.data{
+        
+         border: 2px solid;
+         margin: auto;
+         width: 50%;
+         margin-bottom: 30px;
+         background-color: aliceblue;
+}
+.btn_del{
+         margin-bottom: 30px;
+         margin-left: 3%;
+         
+}
+.headers{
+         margin-top: 5%;
+}
